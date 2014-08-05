@@ -1,0 +1,4 @@
+localsuper
+==========
+
+local super
